@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Title - Company Portal
 
 Description 
@@ -29,3 +30,6 @@ Technologies Used
 React - hooks like useState and useEffect
 Framer Motion (for animation )
 Lucide React(for icons)
+=======
+# company-portal
+>>>>>>> 4b26e10fb7d07364f7f1a42393e9858a3ce94e0f
