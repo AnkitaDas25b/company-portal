@@ -190,9 +190,7 @@ body {
   background-color: #334155;
   color: white;
 }
-
-@media (max-width: 760px) {
-  .app-container {
+.app-container {
     flex-direction: column;
     min-height: 100vh;
   }
