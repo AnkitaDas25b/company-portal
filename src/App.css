@@ -123,6 +123,8 @@ body {
     width: 100% ;
     height: auto ;
   }
+  .primary-btn {
+    flex-direction: column;
 }
 
 
