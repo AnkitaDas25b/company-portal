@@ -5,8 +5,7 @@ import { Clock, Users, Flame } from 'lucide-react';
 
 export default function DashboardHome({ setActiveTab }) {
   const [clockedIn, setClockedIn] = useState(false);
-   //This is called Destructuring Props. It means this component is receiving that tab-switching function from its parent (App.js),
-   //  allowing a button click here to change the page there.
+   
   return (
     <div style={{ maxWidth: '700px', margin: '0 auto',padding:40 }}>
        <h2 className="heading-title" style={{ color: '#f8fafc' }}>Welcome back </h2> 
